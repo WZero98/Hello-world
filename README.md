@@ -1,3 +1,4 @@
 # Hello-world
-my first repository\r
+my first repository
+
 learning something useful
