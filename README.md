@@ -3,4 +3,4 @@ my first repository
 
 learning something useful
 
-especially algorithm
+especially algorithm and mathematics!
